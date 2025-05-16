@@ -53,7 +53,7 @@ The system is developed for use by either the **Admin** or **Pharmacists**.
 - Access and update any details of new purchases of stock for the company
 - Access and update all customers’ details
 - Keep track of all sale transactions
-- Generate and view reports based on the data
+- Generate and view reports based on the data.
 
 #
 
